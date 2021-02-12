@@ -1,5 +1,5 @@
 # bookmybusnavimumbai
-  Presonal bus booking website for sk travels.
+  Presonal bus booking website for S.K. Travels.
 
   created by: 
     Vishal Mhatre
